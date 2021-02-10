@@ -1,6 +1,6 @@
 ::Code-Kanopix
 @ECHO OFF 
-:: This batch file details Windows 10, hardware, and networking configuration.
+:: This batch file removes WebNavigatorBrowser from staskscheduler and from appdata.
 TITLE Remove WebNavigator Adware
 set /p computerName="Please enter ComputerName: "
 :: Section 1: ping ComputerName.
