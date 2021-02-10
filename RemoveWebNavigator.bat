@@ -20,7 +20,7 @@ echo Computer is offline!
 pause
 exit /b 0
 
-:: Section \2: Removes WebNavigator from taskscheduler
+:: Section 2: Removes WebNavigator from taskscheduler.
 :Continues
 cls
 color 2E
@@ -32,7 +32,7 @@ echo Successfully removed from task scheduler!
 pause
 cls
 
-:: Section 3: Force Kill webnavigatorbrowser.exe running proccess
+:: Section 3: Force Kill webnavigatorbrowser.exe running proccess.
 color 3E
 ECHO ============================
 ECHO Killing WebNavigator running process
